@@ -1,0 +1,10 @@
+node_modules/
+client/node_modules/
+client/dist/
+server/data/local-db.json
+.env
+logs/
+CarbonX-package*/
+CarbonX-project*.zip
+npm-debug.log*
+.DS_Store
